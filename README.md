@@ -1,16 +1,50 @@
-# advanced_todo_app
+# ✅💪 Advanced_TODO_App
 
-A new Flutter project.
+a TODO App, created with dart and flutter framework with GETX statemanagement and SQLite database.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+TODO helps users manage their tasks and activities (It's an advanced version).
 
-A few resources to get you started if this is your first Flutter project:
+Star ⭐ the repo to support the project.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Features
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Creating and managing lists of tasks.
+
+- Setting due dates and reminders.
+
+- Categorizing tasks and tracking progress.
+
+- Support Theme mode (Light mode - Dark mode).
+
+- Deleting tasks.
+
+## Screenshots
+
+<img src = "images/todo.png" height = "450" >
+
+<p float="left">
+  <img src="screenshots/Screenshot_20230313_045223.jpg" width="220" height = "450"/>
+  <img src="screenshots/Screenshot_20230313_045228.jpg" width="220" height = "450"/> 
+</p>
+
+<p float="left">
+  <img src="screenshots/Screenshot_20230313_045244.jpg" width="220" height = "450"/>
+  <img src="screenshots/Screenshot_20230313_050503.jpg" width="220" height = "450"/> 
+</p>
+
+<p float="left">
+  <img src="screenshots/Screenshot_20230313_050215.jpg" width="220" height = "450"/>
+  <img src="screenshots/Screenshot_20230313_050221.jpg" width="220" height = "450"/> 
+</p>
+
+## Questions?🤔
+
+Hit me on
+
+[![LinkedIn](https://user-images.githubusercontent.com/35039342/55471530-94b34280-5627-11e9-8c0e-6fe86a8406d6.png)](https://www.linkedin.com/in/bassam-jawish/)
+
+## Contributing
+
+Pull requests are welcome.
