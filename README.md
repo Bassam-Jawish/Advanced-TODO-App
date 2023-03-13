@@ -20,6 +20,8 @@ Star ⭐ the repo to support the project.
 
 - Deleting tasks.
 
+- Local notifications.
+
 ## Screenshots
 
 <img src = "images/todo.png" height = "450" >
